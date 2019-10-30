@@ -1,0 +1,6 @@
+replace unwanted building features
+https://docs.mapbox.com/unity/maps/examples/replace-features/
+
+LatLon to world position. GUSH!!!!
+https://github.com/mapbox/mapbox-unity-sdk/issues/123
+https://github.com/mapbox/mapbox-unity-sdk/issues/441
